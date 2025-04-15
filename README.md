@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Obidul Huq Sagor</h1>
-<h3 align="center">I'm a Computer Science & Engineering student fueled by a passion for coding and a curiosity for the ever-evolving tech world. I specialize in web development, building responsive and engaging web applications using HTML, CSS, and JavaScript. Always eager to learn, I keep up with the latest tech trends, currently applying my skills through Fiverr projects and university assignments. I'm excited about connecting with others—whether it's for new opportunities, collaborations, or just a chat about tech. Let's grow, create, and innovate together. Happy coding!</h3>
+<h3 align="center">I'm a Computer Science & Engineering student fueled by a passion for coding and a curiosity for the ever-evolving tech world. I specialize in web development, building responsive and engaging web applications using HTML, CSS, JavaScript, Java, PHP, Laravel. Always eager to learn, I keep up with the latest tech trends, currently applying my skills through Fiverr projects and university assignments. I'm excited about connecting with others—whether it's for new opportunities, collaborations, or just a chat about tech. Let's grow, create, and innovate together. Happy coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odhsagor&label=Profile%20views&color=0e75b6&style=flat" alt="odhsagor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odhsagor" alt="odhsagor" /></a> </p>
 
-- 🔭 I’m currently working on **Upwork**
+- 🔭 I’m currently working on **Upwork And Fiverr**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/odhsagor)
 
